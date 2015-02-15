@@ -6,7 +6,10 @@ Start: Fri, 13 Feb 2015 13:44:39 -0600
 End: Fri, 13 Feb 2015 14:53:51 -0600
 Tasks: finished table, started html/css
 
-Start: Sat, 14 Feb 08:21:44 -0600
+Start: Sat, 14 Feb 2015 08:21:44 -0600
 End: Sat, 14 Feb 2015 10:53:39 -0600
 Tasks: finished assignment
 
+Start: Sat 14 Feb 2015 18:01:22 -0600
+End: Sat 14 Feb 2015 18:10:11 -0600
+Tasks: Turned in assignment
